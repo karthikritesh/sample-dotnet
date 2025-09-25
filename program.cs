@@ -1,5 +1,6 @@
 using System;
 
+
 namespace MySampleApp
 {
     class Program
