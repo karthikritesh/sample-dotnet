@@ -1,7 +1,7 @@
 Module Module1
 
     Sub Main()
-        Console.WriteLine("Hello, .NET Sample Application!")
+        Console.WriteLine("Hello, gandu!")
     End Sub
 
 
