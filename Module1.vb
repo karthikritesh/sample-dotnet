@@ -1,8 +1,5 @@
 Module Module1
     Sub Main()
-        Console.WriteLine("Hello, hiu!")
-    End Sub
-
-
-    
+        Console.WriteLine("Hello bye")
+    End Sub   
 End Module
