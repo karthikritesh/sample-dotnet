@@ -1,7 +1,6 @@
 Module Module1
-
     Sub Main()
-        Console.WriteLine("Hello, gandu!")
+        Console.WriteLine("Hello, hiu!")
     End Sub
 
 
