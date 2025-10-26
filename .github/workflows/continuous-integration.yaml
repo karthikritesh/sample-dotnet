@@ -29,5 +29,5 @@ jobs:
 
       - name: list publish folder
         run: |
-          ls -ltrh /publish
+          ls -ltrh
           zip -r /publish
