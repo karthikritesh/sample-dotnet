@@ -30,4 +30,4 @@ jobs:
       - name: list publish folder
         run: |
           ls -ltrh
-          zip -r publish
+          zip -r sample-dotnet.zip publish
