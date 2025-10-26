@@ -1,0 +1,13 @@
+name: Simple workflow
+on: workflow_dispatch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a simple command
+        run: echo "Hello from GitHub Actions
+
+      - name: brazil project build
+        run: |
+          echo "Building the Brazil project..."
