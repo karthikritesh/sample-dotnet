@@ -6,7 +6,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Run a simple command
-        run: echo "Hello from GitHub Actions
+        run: echo "Hello from GitHub Actions"
 
       - name: brazil project build
         run: |
